@@ -1,4 +1,5 @@
 Weather Monitoring Application
+
 This is a real-time weather monitoring system that retrieves weather data for various Indian cities (Delhi, Mumbai, Chennai, Bangalore, Kolkata, Hyderabad) from the OpenWeatherMap API, processes it, and triggers alerts when defined thresholds are exceeded. Additionally, it provides daily summaries such as average, maximum, and minimum temperatures and dominant weather conditions.
 
 Features
